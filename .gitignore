@@ -1,0 +1,7 @@
+data/train/*
+data/val/*
+saved_images/*
+
+.vscode
+
+__pycache__
